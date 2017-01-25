@@ -1,5 +1,2 @@
- "language": "csharp",
- "solution" : "Calculator.sln"
-  "group": "stable",
-  "dist": "precise",
-  "os": "linux"
+language: csharp 
+solution: Calculator.sln
